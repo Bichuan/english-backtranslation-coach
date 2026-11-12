@@ -1,0 +1,33 @@
+{
+  "id": "social-media-cet6-2025-06",
+  "title": "2025 年 6 月六级（一）参考范文 · 正确使用社交媒体的重要性",
+  "reference_title": "The Importance of Using Social Media Properly",
+  "translation_title": "正确使用社交媒体的重要性",
+  "source": {
+    "kind": "user_provided_photo",
+    "page_heading": "2025 年 6 月大学英语六级考试真题（一）答案与详解",
+    "section": "Part I Writing / 参考范文",
+    "visible_brand": "星火英语",
+    "transcription": "按用户照片逐段转录标题和三段正文，保留原文措辞、大小写及标点；不收录下方听力材料。考试年份和卷别按照片页眉标注，未另行核实。"
+  },
+  "prompt": null,
+  "prompt_status": "照片未包含写作题干，字数、限时和指定开头等要求暂未录入。",
+  "reference_version": "photo-v1",
+  "recorded_on": "2026-11-11",
+  "reference": "As social media is used more and more extensively, there is a growing awareness of the importance of using it properly and responsibly. Obviously, the rise of social media has profoundly impacted society, presenting both benefits and risks.\n\nOn the one hand, social media brings multiple benefits. For instance, it facilitates global communication, which helps people connect with others and share ideas across borders. It has also become a powerful tool for raising awareness about social issues, which enables marginalized people to voice their opinions and create changes. On the other hand, the misuse of social media poses serious risks. The spread of fake news is a growing concern, as it can spread quickly and shape public opinions. Additionally, the anonymity provided by social media has led to increased incidents of cyberbullying and harassment. What’s more, perfect digital identities online may cause peer pressure, which can result in mental issues, especially among younger users.\n\nTo conclude, social media can be a powerful tool when used properly and responsibly. Therefore, it is essential for individuals to promote digital literacy, and encourage positive online behavior to ensure a safer and more constructive digital space.",
+  "translation": "随着社交媒体的使用越来越广泛，人们越来越认识到正确且负责任地使用它的重要性。显然，社交媒体的兴起已对社会产生了深远影响，既带来了益处，也带来了风险。\n\n一方面，社交媒体带来了多种益处。例如，它促进了全球交流，帮助人们跨越国界，与他人建立联系并分享想法。它也已成为提高人们对社会问题认识的有力工具，使边缘化群体能够表达自己的观点并推动改变。另一方面，社交媒体的滥用带来了严重风险。虚假新闻的传播日益令人担忧，因为这些新闻能够迅速传播并影响公众的看法。此外，社交媒体提供的匿名性导致网络霸凌和骚扰事件增多。不仅如此，网上的完美数字形象可能带来同辈压力，从而导致心理问题，尤其是在较年轻的用户群体中。\n\n总之，正确且负责任地使用社交媒体时，它能够成为一种有力的工具。因此，个人提升数字素养并鼓励积极的网络行为至关重要，这有助于确保网络空间更加安全、更具建设性。",
+  "translation_source": "依据用户所给英文范文生成，按原文三段对应；照片中未提供中文译文。",
+  "language_notes": [
+    "shape public opinions：若表示影响总体舆论，通常用 shape public opinion 更自然。本记录保留照片中的复数写法，不把润色后的版本替换成回译基准。",
+    "promote digital literacy, and encourage：并列不定式结构在此通常不需要 and 前的逗号。本记录按照片保留。"
+  ],
+  "practice": {
+    "sequence": 2,
+    "scope": "三段正文；标题单独保存，暂不纳入正文相似度计算。",
+    "target_similarity_percent": 90,
+    "completion_rule": "字面相似度达到目标，且没有尚未解决的关键意义偏差或明确语言错误。",
+    "status": "reference_and_translation_saved_waiting_for_draft",
+    "latest_draft": null,
+    "unresolved_draft_issues": []
+  }
+}

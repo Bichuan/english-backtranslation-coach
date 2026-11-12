@@ -1,0 +1,4 @@
+interface:
+  display_name: "英语回译教练"
+  short_description: "看中文回译指定英语范文，逐处标注差异、解释语法与语义并指导反复修改"
+  default_prompt: "使用 $english-backtranslation-coach，以内置的 2005 年辞职信开始回译练习，先展示范文和中文译文。"
